@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Soo05kw81sh/paJNrsiHxZuL0sfUrDbAj0cLM/6ixWnRlNhBQ1xgl5r5VZHz2O5e9A1jV4TD4AXl6mtjOKFBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\3CON-RJ\\Desktop\\Learning\\Projetos\\BlazorCrud\\LearningBlazor\\LearningBlazor\\LearningBlazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3CON-RJ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
